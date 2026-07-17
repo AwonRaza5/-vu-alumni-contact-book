@@ -310,11 +310,11 @@ Feel free to use this project for learning and educational purposes.
 
 **Awon Raza**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/AwonRaza5
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://linkedin.com/in/awonraza
 
-Email: your-email@example.com
+Email: dev.aoun@gmail.com
 
 ---
 
